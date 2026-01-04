@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @udgithubit
-- 👀 I’m interested in software development and gen ai
-- 🌱 I’m currently learning cloud computing, website development and Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:dasunmona60@gmail.com and Linkedln:https://www.linkedin.com/in/unmona-das-457787287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 😄 Pronouns: She/Her
-  
-
-<!---
-udgithubit/udgithubit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @udgithubit — Computer Science undergrad focusing on secure, reliable, and ethical software systems.
+Areas of interest: cybersecurity fundamentals, secure software assurance, cloud system robustness, and reliable ML integration.
+Projects here include secure tools and proof-of-concepts related to applied systems and robustness evaluation.
